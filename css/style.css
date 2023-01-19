@@ -60,10 +60,10 @@ img { border-style: none; }
 
 /* Header */
 
-header { 
-    background: Sienna; 
+/* header { 
+    background: rgb(169, 102, 220); 
     padding: 10px;
-}
+} */
 
 .title-header .title {
     display: inline-block;
@@ -124,4 +124,11 @@ footer a { color: cornsilk; }
     border: 1px solid #000
 }
 
+header {
+    background-color: rgb(174, 158, 158);
+}
+
+aside strong {
+    color: red;
+}
 /* End Page Content */
